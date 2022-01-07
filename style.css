@@ -1,0 +1,50 @@
+/* таблица начало */
+
+.table{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    column-gap: 17px;
+    background-color: black;
+}
+.table1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    column-gap: 5px;
+}
+.table_button{
+    font-size: 13px;
+    background-color: black;
+    text-decoration-color: white;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    border: 0px;
+}
+.link{
+    color: white;
+}
+.table1_button{
+    border: 0px;
+    background-color: white;
+}
+.link1{
+    color: black;
+}
+.txt_tb1{
+    font-size: 1vw;
+}
+
+/* конец таблицы */
+
+/* хедер нач */
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+.imgh{
+    display: flex;
+    justify-content: center;
+}
